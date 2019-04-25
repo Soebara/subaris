@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BIODATA</title>
+</head>
+
+<head><title>Form</title></head>
+<body>
+<form action="proses.php" method="post">
+<table>
+<tr>
+<td>NAMA</td>
+<td>Subaris</td>
+</tr>
+<tr>
+<td>NIM</td>
+<td>1614321008</td>
+</tr>
+<td>JURUSAN</td>
+<td>T.INFORMATIKA</td>
+</tr>
+<tr>
+<td>Angkatan</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>TEMPAT TANGGAL LAHIR</td>
+<td>Bojonegoro, 08 juni 1994</td>
+</tr>
+<td rowspan="10" align="center"><img src="subaris.jpg"" width="210" height="313" ></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
